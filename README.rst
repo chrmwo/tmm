@@ -1,4 +1,4 @@
-Author homepage: http://sjbyrnes.com
+Original Author homepage: http://sjbyrnes.com
 
 Package home at PyPI: http://pypi.python.org/pypi/tmm
 
@@ -13,3 +13,8 @@ It can also calculate the parameters measured in ellipsometry. It can also calcu
 For more information, see `manual.pdf <https://github.com/sbyrnes321/tmm/blob/master/manual.pdf>`_. For the list of all functions and how to call them, just browse the source code, everything has docstrings. For physics-based explanations and derivations of the various formulas calculated by this package, see: https://arxiv.org/abs/1603.02720 .
 
 Tested in Python 3. It probably works in Python 2, or maybe not, I haven't checked in a long time. If you want to do color calculations in Python 3, you need to use the Python-3-compatible version of colorpy `here <https://github.com/fish2000/ColorPy/>`_.
+
+directly interact:
+
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/chrmwo/tmm/HEAD
