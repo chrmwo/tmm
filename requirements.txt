@@ -1,4 +1,6 @@
-scikit-learn
+pandas
 numpy
-colorpy
 tmm
+matplotlib
+colorpy
+scikit-learn
